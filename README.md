@@ -130,7 +130,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/manashinde16/manashinde16/output/snake.svg" alt="Snake animation" />
-
-###
