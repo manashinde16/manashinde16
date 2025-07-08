@@ -1,7 +1,7 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f3638373437343730373333613266326636393265373036393665363936643637326536333666366432663666373236393637363](https://github.com/manashinde16/manashinde16/assets/139111725/f600b670-4eaa-43db-88c1-b74766fe974e)
 
 # 💫 About Me:
-👩‍💻I'm Manas Shinde from India<br><br>- 🔭 I’m working as  Full Stack Developer<br>- 📚 I'm currently learning DSA in Java <br>- ⚡ In my free time I Code 😂
+👩‍💻I'm Manas Shinde from India<br><br>- 🚀 I'm a Full Stack Developer passionate about building end-to-end web and mobile applications<br>- 📚 Currently diving deep into Data Structures & Algorithms in Java <br>- ⚡ In my free time, I love to code, explore tech, and work on side projects 😄
 
 
 ## 🌐 Socials:
