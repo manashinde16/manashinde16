@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
@@ -7,7 +5,7 @@ class Solution {
         return result;
     }
 
-    private void backtrack(int[] candidates, int target, int start, List<Integer> temp,         List<List<Integer>> result) {
+    private void backtrack(int[] candidates, int target, int start, List<Integer> temp, List<List<Integer>> result) {
         if (target == 0) {
             result.add(new ArrayList<>(temp));
             return;
